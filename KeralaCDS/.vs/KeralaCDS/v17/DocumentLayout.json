@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KeralaCDSProject\\KeralaCDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|d:\\keralacdsproject\\keralacds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C66451-D589-47F2-B45C-9E2137FDAF04}|KeralaCDS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:30:06.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\UserRepository.cs",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\Services\\UserRepository.cs",
+              "RelativeToolTip": "Services\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:08:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:20:45.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\Models\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyDBContext.cs",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\Models\\MyDBContext.cs",
+              "RelativeToolTip": "Models\\MyDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:15:44.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:01:42.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:44:04.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T08:43:39.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KeralaCDSProject\\KeralaCDS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\KeralaCDSProject\\KeralaCDS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T08:43:28.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
